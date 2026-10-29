@@ -1,6 +1,6 @@
 # Escalamiento en Azure con Máquinas Virtuales y Balanceador de Carga
 
-**Escuela Colombiana de Ingeniería Julio Garavito — Arquitecturas de Software (ARSW)**
+**Escuela Colombiana de Ingeniería Julio Garavito  Arquitecturas de Software (ARSW)**
 
 **Integrantes:**
 - Esteban Valente Arenas
